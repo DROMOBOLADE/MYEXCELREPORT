@@ -7,7 +7,8 @@ This is a simple Microsoft Excel project on sales analysis of a hypothetical com
 
 **_Disclaimer_** : _The analysis was aimed at analysing and helping the business make good decisions driven by data._
 ***
-Problem Statement
+
+## Problem Statement
 ***
 1.	What is the total revenue and profit?
 2.	What is the total number of sales recorded?
